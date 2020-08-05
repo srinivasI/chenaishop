@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/chenaishop/static/css/main.5dc74ef9.chunk.css",
+    "main.js": "/chenaishop/static/js/main.d010e7db.chunk.js",
+    "main.js.map": "/chenaishop/static/js/main.d010e7db.chunk.js.map",
+    "runtime-main.js": "/chenaishop/static/js/runtime-main.93c0d810.js",
+    "runtime-main.js.map": "/chenaishop/static/js/runtime-main.93c0d810.js.map",
+    "static/js/2.11c49107.chunk.js": "/chenaishop/static/js/2.11c49107.chunk.js",
+    "static/js/2.11c49107.chunk.js.map": "/chenaishop/static/js/2.11c49107.chunk.js.map",
+    "index.html": "/chenaishop/index.html",
+    "precache-manifest.7d60c323630a33bbc04a54930160bce3.js": "/chenaishop/precache-manifest.7d60c323630a33bbc04a54930160bce3.js",
+    "service-worker.js": "/chenaishop/service-worker.js",
+    "static/css/main.5dc74ef9.chunk.css.map": "/chenaishop/static/css/main.5dc74ef9.chunk.css.map",
+    "static/js/2.11c49107.chunk.js.LICENSE.txt": "/chenaishop/static/js/2.11c49107.chunk.js.LICENSE.txt",
+    "static/media/loginsignin.module.sass": "/chenaishop/static/media/background.c9aafe4f.jpg",
+    "static/media/checkmark.svg": "/chenaishop/static/media/checkmark.891e56ca.svg",
+    "static/media/loading-bars.svg": "/chenaishop/static/media/loading-bars.84a72c4d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93c0d810.js",
+    "static/js/2.11c49107.chunk.js",
+    "static/css/main.5dc74ef9.chunk.css",
+    "static/js/main.d010e7db.chunk.js"
+  ]
+}
